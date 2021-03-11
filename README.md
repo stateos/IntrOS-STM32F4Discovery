@@ -1,5 +1,5 @@
 # IntrOS
-  [![Build Status](https://travis-ci.org/stateos/IntrOS-STM32F4Discovery.svg)](https://travis-ci.org/stateos/IntrOS-STM32F4Discovery)
+  [![CI](https://github.com/stateos/IntrOS-STM32F4Discovery/actions/workflows/test.yml/badge.svg)](https://github.com/stateos/IntrOS-STM32F4Discovery/actions/workflows/test.yml)
 
 Free, simple and tiny cooperative operating system (OS) designed for deeply embedded applications.
 TEMPLATE.
